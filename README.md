@@ -12,14 +12,6 @@
 Tired of writing resumes and cover letters from scratch? This project uses the power of Google's Gemini AI to automatically generate professional, tailored application documents for you in seconds!
 </p>
 
-🚀 Live Demo in Action
-<p align="center">
-<!-- Placeholder for a GIF of the app. Replace this with a real recording for maximum impact! -->
-<img src="https://storage.googleapis.com/gemini-prod/images/4933a4659f899e43_0.gif" alt="App Demo GIF" width="80%">
-<br>
-<em>An interactive web UI built with Gradio makes document generation a breeze.</em>
-</p>
-
 ✅ Core Features
 🤖 AI-Powered Content: Leverages Google's Gemini Pro to write compelling summaries, professional bullet points, and persuasive cover letters.
 
